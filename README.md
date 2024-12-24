@@ -72,6 +72,14 @@ The ERD visualizes the relationships between entities in the database. It includ
 - **Employee**: Many-to-One with Department
 - **Department**: One-to-Many with Employee
 
+## ERD (Entity-Relationship Diagram)
+
+The ERD for this schema can be viewed below:
+
+![ERD Diagram](./images/DB-eCommerce.drawio.png)
+
+or
+
 You can view the ERD diagram
 [here](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&layers=1&nav=1#G1Lbakuuknlg39EXITW9kR2brLgfgAV7Ep)
 
